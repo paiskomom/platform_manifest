@@ -1,4 +1,4 @@
-# Resurrection Remix OS Q 2020 #
+# Resurrection Remix OS Q 2025 Rev #
 
 
 Getting started
@@ -12,7 +12,7 @@ Sync
 ```bash
 
 # Initialize local repository
-repo init -u https://github.com/ResurrectionRemix/platform_manifest.git -b Q
+repo init -u https://github.com/strongreasons/platform_manifest -b Q --git-lfs
 
 # Sync
 repo sync --force-sync --no-clone-bundle
@@ -242,3 +242,5 @@ Happy building
 
 ### - RR Team ###
 
+# Credits:
+[ResurrectionRemix](https://github.com/ResurrectionRemix)
